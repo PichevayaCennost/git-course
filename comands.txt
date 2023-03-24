@@ -1,0 +1,6 @@
+git --help
+git status
+git add <filename>              начать следить за файлом
+git add .                       все файлы
+git rm --cached <filename>      удалить слежку
+bulat
