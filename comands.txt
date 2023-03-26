@@ -8,3 +8,13 @@ git rm --cached <filename>      удалить слежку
 
 __COMMITS__
 git commit -m "<message>"
+
+__BRANCH__
+git branch                      список веток
+gir brach <branch name>          создать новую ветку
+git branch -D <brach name>      удалить ветку
+git chechout <branch name>      переключиться на ветку
+
+
+get merge <branch name>                     соединить ветки
+
